@@ -1,6 +1,6 @@
 # ☕ Lavazza Product Card - Boolean Project
 
-Questo è un mini-progetto sviluppato con **React** e **CSS base**, ispirato a un design da me creato su Figma come esercitazione per e nozioni apprese durante la specializzazione in Web Design.  
+Questo è un mini-progetto sviluppato con **React** e **CSS base**, ispirato a un design da me creato su Figma come esercitazione per le nozioni apprese durante la specializzazione in Web Design.  
 L'obiettivo era replicare **fedelmente** una card di prodotto Lavazza, curando layout, stili, tipografia e interattività, basandosi su un prototipo visuale.
 
 ---
